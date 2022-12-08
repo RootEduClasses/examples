@@ -8,6 +8,6 @@
 
 ```
 git clone https://github.com/RootEduClasses/examples.git
-cd example/aws/nodejs/
+cd examples/aws/nodejs/
 bash install_nodejs_awscli.sh
 ```
